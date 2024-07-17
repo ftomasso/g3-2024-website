@@ -1,11 +1,11 @@
 ---
 layout: default-full
-title: "Atlante delle stragi nazifasciste"
-subtitle: "cronografia della guerra nazista in Italia"
+title: "Una Questione di Codice"
+subtitle: "L'implicazione dell'AI e il diritto"
 show_sidetoc: true
 header_type: hero #base, post, hero,image, splash
-header_img: assets/images/Atlante_cover.jpeg
-header_title: "Atlante delle stragi nazifasciste"
+header_img: assets/images/Prova2.jpeg
+header_title: "Una Questione di Codice"
 vega: true
 ---
 

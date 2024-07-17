@@ -3,7 +3,7 @@
 @charset "utf-8";
 // Your custom css /scss here
 
-#sezione-1, #sezione-11, #sezione-12, #mappa-delle-stragi, #galleria{
+#topic, #Time-series ,#sezione-12, #mappa-delle-stragi, #galleria{
   scroll-margin-top: 60px; /* Imposta lo spazio di scorrimento prima dell'elemento ancorato */
 }
 
@@ -103,16 +103,16 @@
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
 
 .comic-neue-regular {
-  font-family: "Comic Neue", cursive;
+  font-family: "Fira Code", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
 .comic-neue-bold {
-  font-family: "Comic Neue", cursive;
+  font-family: "Fira Code", cursive;
   font-weight: 700;
   font-style: normal;
 }
@@ -135,4 +135,13 @@ iframe {
 // wrench
 .tech-wrench .fa-wrench:hover {
   transform: scale(1, 1) !important;
+}
+
+.giustificato {
+  text-align: justify;
+}
+
+.fascia-grigia {
+  background-color: #D3D3D3; /* Questo è un colore grigio chiaro */
+  padding: 20px; /* Questo aggiunge un po' di spazio intorno al contenuto */
 }

@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Progettone Template"
+title: "Una questione di Codice"
 subtitle: "un template per i progetti del master SoBigData"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -34,7 +34,7 @@ github_repo:
   - name: "Group 0 - Project repository"
     url: "https://github.com/sobigdata-master/progettone-template"
   - name: "Group 0 - Website repository"
-    url: "https://github.com/sobigdata-master/progettone-template"
+    url: "https://github.com/ftomasso/g3-2024-website"
 
 
 
@@ -63,9 +63,23 @@ navbar:
           url: /markdown  #url
         - title: kramdown cheatsheet #Label
           url: /kramdown #url
-    - title: One page demo
+    - title: Avvochat
       child:
-        - title: Demo
+        - title: Mission   
+          url: /paginaapplicazione
+        - title: "Topic" #Label
+          url: /paginaapplicazione#topic #url
+        - title: "Time" #Label
+          url: /paginaapplicazione#Time-series #url
+        - title: "topicxtopc" #Label
+          url: /paginaapplicazione#topicxtopc #url
+        - title: "Grafo" #Label
+          url: /paginaapplicazione#Grafo #url
+        - title: "LLM_RAG" #Label
+          url: /paginaapplicazione#llmrag #url
+    - title: Una questione di Codice
+      child:
+        - title: Mission
           url: /single
         - title: "Sezione 1" #Label
           url: /single#sezione-1 #url
@@ -84,12 +98,13 @@ googlefonts:
   - url: "https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
   - url: "https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
   - url: "https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap"
+  - url: "https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap"
 
 chulapa-skin:
-  skin:  "graymor" #"graymor" "gitdev-dark" "gitdev" "universal" "academia" "gitdev" "towards" "pear" "twitter-lights-out" "twitter-dim" "wandoo" "lymcha" "twitter" "chulapa" "sunset" "sunset" "minty" "lux" "journal" "deeply"
+  skin:  "universal" #"graymor" "gitdev-dark" "gitdev" "universal" "academia" "gitdev" "towards" "pear" "twitter-lights-out" "twitter-dim" "wandoo" "lymcha" "twitter" "chulapa" "sunset" "sunset" "minty" "lux" "journal" "deeply"
   vars:
-    body-bg: "#fbf1ed"
-    # font-family-base: "Comic Neue"
+    #body-bg: "#fbf1ed"
+    font-family-base: "Fira Code"
     # headings-font-family: "Lekton"
 
 
