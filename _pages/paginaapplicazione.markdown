@@ -22,6 +22,14 @@ vega: true
 
 {% include one-column.html dimension="small" content=mission_content %}
 
+[//]: # (Topic section)
+
+{% capture topic_content %}
+    {% include_relative snippets/topic.md %}
+{% endcapture %}
+
+{% include one-column.html dimension="small" content=topic_content %}
+
 
 [//]: # (Time_series section)
 {% capture time_series_content %}
@@ -30,21 +38,15 @@ vega: true
 
 {% include one-column.html dimension="small" content=time_series_content %}
 
-[//]: # (Topic section)
-{% capture topic_content %}
-    {% include_relative snippets/topic.md %}
-{% endcapture %}
-
-{% include one-column.html dimension="small" content=topic_content %}
-
-
 [//]: # (Topic_per_topic section)
+<div class="bg-color-full bg-color py-3 my-5 " style="min-height:45vh">
+
 {% capture topicX_content %}
     {% include_relative snippets/topicxtopic.md %}
 {% endcapture %}
 
 {% include one-column.html dimension="small" content=topicX_content %}
-
+</div>
 
 
 [//]: # (Grafo section)
@@ -71,4 +73,7 @@ vega: true
 {% include one-column.html dimension="small" content=achat_content %}
 
 
-{% include modal-component-FAB.html title="Avvochat - il tuo avvocato a portata di clic" id="avvo-chat" html_to_include="https://gradio-map-airbnb.hf.space" height="530"%}
+{% include code-explanation.html %}
+
+
+{% include modal-component-FAB.html title="Avvochat - il tuo avvocato a portata di clic" id="avvo-chat" html_to_include="https://de85ceda28d168041d.gradio.live" height="530"%}

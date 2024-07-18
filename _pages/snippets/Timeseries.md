@@ -2,6 +2,14 @@
 ## Il tempo
 
 
+{% capture time_tech %}
+{% include_relative snippets/tech/timeseries_tech.md %}
+{% endcapture %}
+
+{% include tech-content.html content=time_tech %}
+
+
+
 <div class="slider">
   <!-- Primo grafico -->
   <div class="slide">
@@ -13,6 +21,7 @@
   </div>
 </div>
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione, ogni anno tra processi civili e penali circa cinque milioni di italiani sono coinvolti in procedimenti giudiziari. Il diritto è un codice complesso, fatto Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione, ogni anno tra processi civili e penali circa cinque milioni di italiani sono coinvolti in procedimenti giudiziari. Il diritto è un codice complesso, fatto 1000
+Da sempre, questi aspetti della quotidianità ci riguardano da vicino eppure, se prima ci rivolgevamo all’amico giurista di turno per tentare di risolvere il problema, man mano abbiamo assunto sempre più spesso l’abitudine di cercare chiarimenti online. Se analizziamo i nostri dati, infatti, notiamo un trend in salita della curva di interesse con un primo picco intorno al 2016 che poi riscende per stabilizzarsi proprio intorno al 2020, anno del covid. Un evento drammatico che segna, tuttavia, una svolta radicale per l’utilizzo di tecnologia, innovazione e informazione. 
+
 {:.giustificato}
 {:.fascia-grigia}

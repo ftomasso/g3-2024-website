@@ -1,6 +1,12 @@
 
 ## Topics Pills
 
+{% capture topicpills_tech %}
+{% include_relative snippets/tech/topic_pils_tech.md %}
+{% endcapture %}
+
+{% include tech-content.html content=topicpills_tech %}
+
 ### Diritto e Quotidianetià
 
 <iframe
