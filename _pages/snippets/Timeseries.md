@@ -9,7 +9,7 @@
   </div>
   <!-- Secondo grafico -->
   <div class="slide">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/time_topic.json" style="width: 80%"></vegachart>
+    <vegachart schema-url="{{site.baseurl}}/assets/charts/time_conlegenda.json" style="width: 80%"></vegachart>
   </div>
 </div>
 
