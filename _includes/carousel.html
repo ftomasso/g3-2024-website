@@ -1,0 +1,50 @@
+{% assign urls = include.urls | split: "," %}
+{% assign descriptions = include.descriptions | split: "," %}
+
+<div class="{% if include.container == 'fluid' %}container-fluid{% else %}container{% endif %}">
+    <div class="row pt-2">
+        <div class="col-12">
+            <iframe id="main-iframe" class="d-block w-100" src="{{ urls[0] | strip_newlines | strip }}" style="height: 500px;" onload="iframeLoaded(this)" onerror="iframeError(this)"></iframe>
+            <div class="caption d-md-block mt-2">
+                <p id="iframe-description">{{ descriptions[0] | strip_newlines | strip }}</p>
+            </div>
+        </div>
+    </div>
+    <div class="row pt-2">
+        <div class="col-12 d-flex justify-content-between">
+            {% for url in urls %}
+            <button class="btn btn-primary" onclick="loadIframe({{ forloop.index0 }})">View {{ forloop.index }}</button>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        console.log('Iframes initialized');
+        console.log('URLs:', {{ urls | jsonify }});
+        console.log('Descriptions:', {{ descriptions | jsonify }});
+    });
+
+    function iframeLoaded(iframe) {
+        console.log('Iframe loaded successfully:', iframe.src);
+    }
+
+    function iframeError(iframe) {
+        console.error('Error loading iframe:', iframe.src);
+        iframe.nextElementSibling.innerHTML = '<p style="color: red;">Error loading content. Please try again later.</p>';
+    }
+
+    function loadIframe(index) {
+        var urls = {{ urls | jsonify }};
+        var descriptions = {{ descriptions | jsonify }};
+        var iframe = document.getElementById('main-iframe');
+        var description = document.getElementById('iframe-description');
+        
+        console.log("Loading URL at index " + index + ":", urls[index]);
+        console.log("Description at index " + index + ":", descriptions[index]);
+        
+        iframe.src = urls[index];
+        description.innerText = descriptions[index];
+    }
+</script>

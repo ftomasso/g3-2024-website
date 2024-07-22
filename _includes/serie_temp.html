@@ -1,0 +1,36 @@
+<div class="container-fluid">
+    {% if include.title %}
+    <div class="row pt-2 justify-content-center">
+        <div class="col-12 text-center">
+            <h1>{{ include.title }}</h1>
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="row pt-2 justify-content-center">
+        <div class="col-12 text-center">
+            {{ include.content | markdownify }}
+
+            
+            {% if chart %}
+            <div class="d-flex justify-content-center mt-3">
+                <div class="chart-wrapper">
+                    <vegachart 
+                        schema-url="{{ site.baseurl }}/assets/charts/{{ chart }}" 
+                        class="chart">
+                    </vegachart>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="d-flex justify-content-center mt-3">
+                <div class="chart-wrapper">
+                    <vegachart 
+                        schema-url="{{ site.baseurl }}/assets/charts/trend.json" 
+                        class="chart">
+                    </vegachart>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

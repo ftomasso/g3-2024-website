@@ -1,5 +1,7 @@
 
 ## Topics Pills
+{:.testo-bianco}
+
 
 {% capture topicpills_tech %}
 {% include_relative snippets/tech/topic_pils_tech.md %}
@@ -7,7 +9,10 @@
 
 {% include tech-content.html content=topicpills_tech %}
 
+
+
 ### Diritto e Quotidianetià
+{:.testo-bianco}
 
 <iframe
   width="800"
@@ -18,10 +23,12 @@
   allowFullScreen
 ></iframe>
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. 
+Quando si tratta di legge però, il linguaggio tecnico ci impedisce di risolvere i nostri dubbi, invece gli articoli che abbiamo campionato si distinguono per trattare gli argomenti con semplicità e precisione. Questo ci ha permesso di approfondire l’analisi e vedere di cosa trattano i documenti quando sono stati etichettati come diritto e quotidianità. Vediamo infatti che le tematiche sono varie: bollette, ordinamenti, dogana, risarcimenti, garanzia, sosta… 
+Il grafo interattivo permette di visualizzare agevolmente la frequenza dei termini nei testi.
+
 
 ### Famiglia, figli e divorzio
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
+{:.testo-bianco}
 
 <iframe
   width="800"
@@ -32,7 +39,10 @@ Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nel
   allowFullScreen
 ></iframe>
 
+Nella compagine dedicata alla famiglia ricadono tutti quei termini che nell’immaginario pur di persone comuni, leghiamo a problematiche di eredità, divorzi, separazioni,. Le parole maggiormente presenti nel grafo infatti sono fratelli, cugini, defunti, patrimonio, quote, donazioni; poi immaginiamo tra coniugi: spese, condizioni, doveri, obblighi, collocamento, tutore, tribunale. 
+
 ### Rapporti di Lavoro
+{:.testo-bianco}
 
 <iframe
   width="800"
@@ -44,9 +54,12 @@ Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nel
 
 ></iframe>
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
+Continuando il viaggio semantico nel mondo del lavoro troviamo una vasta gamma di terminologia legata alle cause con aziende: salute, mansioni, norme aziendali, certificato, controllo, retribuzione, contributi.
+
+
 
 ### Reati Penali
+{:.testo-bianco}
 
 <iframe
   width="800"
@@ -58,36 +71,10 @@ Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nel
 
 ></iframe>
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
+Tra i reati penali i più richiesti sono quelli che riguardano le infrazioni al codice della strada, infatti troviamo parole come multa, verbale, parcheggio, sosta, documenti, circolazione. 
 
-### Pensione e Sussidi
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
-
-<iframe
-  width="800"
-  height="600"
-  src="https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FpasqualeMBD%2F264c414540fca57918812db6d8d20826%2Fraw%2F10d063486502d7c522c0946259abee13189f4925%2Fgraph_retina6.gexf&c=r&s=r&sa=r&ca=r&st=r&ds=1&dc=1"
-  frameBorder="0"
-  title="Retina"
-  allowFullScreen
-></iframe>
-
-
-### casa spazi comuni
-
-<iframe
-  width="800"
-  height="600"
-  src="https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FpasqualeMBD%2F0d1f242f0e248feb941a65b5c88b4c08%2Fraw%2F00e6826d6e5667294052715076f3ec01f572a75f%2Fgraph_retina5.gexf&c=r&s=r&sa=r&ca=r&st=r&ed=u&ds=1&dc=1"
-  frameBorder="0"
-  title="Retina"
-  allowFullScreen
-></iframe>
-
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
-
-
-### Debiti e Pignoramenti
+### Agenzia delle entrate e fisco
+{:.testo-bianco}
 
 <iframe
   width="800"
@@ -99,4 +86,4 @@ Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nel
 
 ></iframe>
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione.
+Altro argomento, purtroppo in voga, nei documenti che trattano di debiti e pignoramenti, spiccano termini come euro, requisiti, obbligazioni, uffici, raccomandata, obbligo, patrimonio, termini, data, rateazione.

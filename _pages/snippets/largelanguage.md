@@ -1,12 +1,6 @@
 
-# Come possono aiutarci i large language model a democratizzare un linguaggio cosi tecnico?
+# L’AVVOCHAT: L’LLM A TEMA GIURIDICO PENSATO PER I CITTADINI COMUNI
 
-La necessità di connetterci virtualmente tramite i nostri pc, infatti, ci ha progressivamente avvicinato all’intelligenza artificiale, che da quel momento in poi ha preso sempre più piede nella nostra vita: chiunque può chiedere, informarsi, apprendere, grazie a sofisticati moduli di generazione di conoscenza. 
-
-
-<vegachart schema-url="{{site.baseurl}}/assets/charts/rag.json" style="width: 100%"></vegachart>
-
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione, ogni anno tra processi civili e penali circa cinque milioni di italiani sono coinvolti in procedimenti giudiziari. Il diritto è un codice complesso, fatto Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione,
 
 
 {% capture rag_tech %}
@@ -15,14 +9,30 @@ Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nel
 
 {% include tech-content.html content=rag_tech %}
 
+La grande quantità di siti web divulgativi e l’apparizione, sui social, di quelli che potremmo definire veri e propri “avvocati influencer” sono una spia, dunque, del fatto che gli italiani si affidano effettivamente alla rete per risolvere dubbi di natura legale. L’enorme quantità di dati, tuttavia, può costituire, come abbiamo già avuto modo di accennare, un problema non da poco. E allora perché non dotare i comuni cittadini di uno strumento che possa aiutarli a reperire più velocemente l’informazione di cui hanno bisogno? 
+{:.giustificato}
 
 
 
-## L'allenamento alla carriera prefettizia, la costruzione della memoria a breve termine
+![Test immagine]({{site.baseurl}}/assets/images/ragprova.png)
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia
 
-{% include grafico_interattivo.html %}
+Il RAG è un sistema che converte documenti in vettori semantici (embedding) e li raccoglie in un database chiamato VECTOR DB. Quando viene posta una domanda legale, il sistema recupera le informazioni pertinenti dal VECTOR DB e le aggiunge alla domanda, permettendo ad Avvochat di generare risposte corrette e chiare in modo efficiente.
+ 
 
-Abbiamo testato principalmente il meccanismo di retrieval specifico del dominio su 3 branche principali del diritto: amministrativo, civile e costituzionale e notato come nei test a fasce di difficoltà la pertinenza del materiale recuperato fosse tendenzialmente legata alla struttura frasale delle norme. Quando una domanda citava espressamente il numero di articolo o il luogo in cui trovare la norma il meccanismo catturava più facilmente la risposta corretta, rivelando una efficacia constatata con un setting di parametri a metà strada tra il richiamo per keyword e per vettori.
-Il rag, il meccanismo di retrieval che abbiamo impostato per attingere conoscenze specifiche di dominio ha rilevato significative differenze di accuratezza anche rispetto a modelli non propriamente costruiti con questo sistema di recupero su dataset strutturato. Infatti a confronto con gli altri modelli testati la sua prestazione ha vinto sia su Mistaral che su chat GPT.
+
+
+Nasce da qui l’idea di creare un LLM a tema legale, facilmente consultabile e alla portata di tutti: l’AvvoChat. Specializzato su un dominio di conoscenza giuridica, AvvoChat si avvale di un sistema di Retrieval-Augmented Generation (RAG ) che garantisce l’affidabilità delle risposte generate. Come lo fa? Andando a recuperare, all’interno dei dati a disposizione dell’LLM, solo le informazioni effettivamente rilevanti, riducendo, così, il rischio di risposte sbagliate (quelle che vengono spesso definite “allucinazioni”). Il RAG, in altre parole, permette all’LLM di prendere in considerazione solo le informazioni davvero utili, riducendo di molto la quantità di dati da gestire per la generazione della risposta e arginando uno dei principali problemi dell’AI generativa, legato alla cosiddetta short term-memory (cioè la memoria a breve termine). Più elevata è, infatti, la quantità di dati da gestire, più la memoria dell’LLM farà fatica a ricordarli tutti. Questa tendenza alla dimenticanza è proprio una delle principali cause di allucinazione dei modelli linguistici generativi.   
+{:.giustificato}
+
+
+
+
+
+
+
+
+
+
+
+

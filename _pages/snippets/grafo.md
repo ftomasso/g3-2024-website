@@ -1,13 +1,21 @@
 
 ## Grafo
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia,
-{:.giustificato}
-
-![Test immagine]({{site.baseurl}}/assets/images/graph.png)
 
 
-Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione, ogni anno tra processi civili e penali circa cinque milioni di italiani sono coinvolti in procedimenti giudiziari. Il diritto è un codice complesso, fatto Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà. In Italia, anche se i processi sono in diminuzione, 
+<iframe
+  width="800"
+  height="600"
+  src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FpasqualeMBD%2F5613dcbe1953f7c006a4d908802eab42%2Fraw%2Fd3945a165c303687b7407ea90d4c007236a5fac9%2Fnetwork-175fce3a-798.gexf&amp;nr=0.698&amp;lt=0.612&amp;ls=9&amp;le=39%22"
+  frameBorder="0"
+  title="Retina"
+  allowFullScreen
+
+></iframe>
+
+
+
+
 {:.giustificato}
 {:.fascia-grigia}
 

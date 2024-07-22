@@ -117,7 +117,46 @@
   animation-delay: 5s;
 }
 
+.full-height {
+  height: 100%;
+}
 
+.chart-wrapper {
+    width: 80%;
+    max-width: 800px; /* Optional: limit the maximum width */
+    height: 300px;    /* Set the desired height */
+}
 
+.chart-wrapper vegachart {
+    width: 100%;
+    height: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.mt-2 {
+  margin-top: 2rem; /* O un valore appropriato per il tuo layout */
+}
+
+.chart-wrapper {
+  flex: 1;
+  display: flex;
+}
+
+vegachart {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+}
+
+.text-white {
+  color: white;
+}
 
 /*# sourceMappingURL=custom.css.map */

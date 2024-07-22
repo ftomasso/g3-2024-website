@@ -38,10 +38,6 @@ github_repo:
 
 
 
-
-
-
-
 navbar:
   style :  dual #non modificare
   brand: # è il titolo del sito e funziona da bottone (tipicamente per la homepage).
@@ -107,6 +103,8 @@ chulapa-skin:
     font-family-base: "Fira Code"
     # headings-font-family: "Lekton"
 
+
+locale: “it-IT”
 
 #chulapa-skin:
 #  autothemer  :  true

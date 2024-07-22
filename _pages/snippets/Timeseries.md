@@ -1,6 +1,4 @@
 
-## Il tempo
-
 
 {% capture time_tech %}
 {% include_relative snippets/tech/timeseries_tech.md %}
@@ -10,18 +8,8 @@
 
 
 
-<div class="slider">
-  <!-- Primo grafico -->
-  <div class="slide">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/trend.json" style="width: 80%"></vegachart>
-  </div>
-  <!-- Secondo grafico -->
-  <div class="slide">
-    <vegachart schema-url="{{site.baseurl}}/assets/charts/time_conlegenda.json" style="width: 80%"></vegachart>
-  </div>
-</div>
 
-Da sempre, questi aspetti della quotidianità ci riguardano da vicino eppure, se prima ci rivolgevamo all’amico giurista di turno per tentare di risolvere il problema, man mano abbiamo assunto sempre più spesso l’abitudine di cercare chiarimenti online. Se analizziamo i nostri dati, infatti, notiamo un trend in salita della curva di interesse con un primo picco intorno al 2016 che poi riscende per stabilizzarsi proprio intorno al 2020, anno del covid. Un evento drammatico che segna, tuttavia, una svolta radicale per l’utilizzo di tecnologia, innovazione e informazione. 
-
+Risultati interessanti sono emersi anche dall’analisi temporale degli articoli presenti nel dataset. Se analizziamo i nostri dati, infatti, notiamo che il numero di articoli pubblicati sul sito preso in esame comincia a salire a partire dal 2015, con un primo picco tra il 2017 e il 2018 ( periodo in cui l’attività di pubblicazione del sito ha visto un incremento molto forte). Va sottolineato, poi, che l’andamento della curva si mantiene più o meno costante a partire dai primi mesi del 2020, periodo in cui è scoppiata l’epidemia di covid, evento che ha modificato radicalmente le abitudini degli italiani per quanto riguarda l’utilizzo della tecnologia. 
+Dei 7 topic individuati, quello relativo a diritto e vita quotidiana subisce una forte impennata proprio in concomitanza della pandemia, probabilmente perché le preoccupazioni legate a questo genere di questioni si sono intensificate nel periodo del covid. Le problematiche di ordine economico o relative alla famiglia e al lavoro, invece, sono sempre presenti in modo abbastanza stabile, così come quelle a tema penale.
 {:.giustificato}
 {:.fascia-grigia}
