@@ -57,8 +57,6 @@ vega: true
 {% include one-column.html dimension="small" content=topicX_content %}
 </div>
 
-
-
 [//]: # (LLM section)
 {% capture grafoX_content %}
     {% include_relative snippets/largelanguage.md %}
