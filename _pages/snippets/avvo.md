@@ -5,7 +5,7 @@
 Per la creazione del modello siamo partiti con l’istruire un LLM già esistente (ANITA, modello sviluppato dall’Università di Bari)  su un dataset composto dai 66.000 articoli a cui abbiamo già fatto riferimento e che, lo ricordiamo, sono scritti in un linguaggio colloquiale e non specialisti e, quindi, risultano facilmente comprensibili anche per chi non ha competenze legali. Abbiamo svolto, dunque, quella che viene definita un’operazione di fine-tuning. Siamo passati, poi, a una seconda fase di test, in cui abbiamo sottoposto all’AvvoChat e ad altri tre LLM (Mistral, Anita, e Chat-GPT ) alcune domande a tema legale e confrontando, poi, le risposte.
 {:.giustificato}
 
-![Test immagine]({{site.baseurl}}/assets/images/avvochat.jpeg)
+![Test immagine]({{site.baseurl}}/assets/images/avvoavvo2.png)
 
 
 {% capture llm_tech %}
