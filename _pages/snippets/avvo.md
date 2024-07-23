@@ -1,19 +1,15 @@
 
 # COME NASCE AVVOCHAT?
 
-
-Per la creazione del modello siamo partiti con l’istruire un LLM già esistente (ANITA, modello sviluppato dall’Università di Bari) su un dataset composto dai 66.000 articoli a cui abbiamo già fatto riferimento e che, lo ricordiamo, sono scritti in un linguaggio colloquiale e non specialisti e, quindi, risultano facilmente comprensibili anche per chi non ha competenze legali. Abbiamo svolto, dunque, quella che viene definita un’operazione di _fine-tuning_. Siamo passati, poi, a una seconda fase di test, in cui abbiamo sottoposto all’AvvoChat e ad altri tre LLM (Mistral, ANITA , e Chat-GPT4) alcune domande a tema legale. Abbiamo chiesto, poi, ad un pull di avvocati di diversa provenienza, età e specializzazione, quale fosse la risposta più performante a livello di pertinenza, esattezza dell’ informazione, livello di sintesi e semplicità interpretativa.
-{:.giustificato}
-
-
-
-
 {% capture llm_tech %}
 {% include_relative snippets/tech/llm_tech.md %}
 {% endcapture %}
 
 {% include tech-content.html content=llm_tech %}
 
+
+Per la creazione del modello siamo partiti con l’istruire un LLM già esistente (ANITA, modello sviluppato dall’Università di Bari) su un dataset composto dai 66.000 articoli a cui abbiamo già fatto riferimento e che, lo ricordiamo, sono scritti in un linguaggio colloquiale e non specialisti e, quindi, risultano facilmente comprensibili anche per chi non ha competenze legali. Abbiamo svolto, dunque, quella che viene definita un’operazione di _fine-tuning_. Siamo passati, poi, a una seconda fase di test, in cui abbiamo sottoposto all’AvvoChat e ad altri tre LLM (Mistral, ANITA , e Chat-GPT4) alcune domande a tema legale. Abbiamo chiesto, poi, ad un pull di avvocati di diversa provenienza, età e specializzazione, quale fosse la risposta più performante a livello di pertinenza, esattezza dell’ informazione, livello di sintesi e semplicità interpretativa.
+{:.giustificato}
 
 
 ## COME SE L’È CAVATA L’AVVOCHAT?

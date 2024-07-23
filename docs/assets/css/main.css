@@ -4023,6 +4023,16 @@ input[type=button].btn-block {
   background-size: 100% 100%;
 }
 
+/* Esempio di regole CSS per cambiare il colore del titolo del menu di navigazione */
+.navbar-nav .nav-item .nav-link {
+  color: #ff0000; /* Cambia il colore con quello che preferisci */
+}
+
+/* Se vuoi specificare il titolo in base all'ordine */
+.navbar-nav .nav-item:nth-child(1) .nav-link {
+  color: #ff0000; /* Cambia il colore con quello che preferisci */
+}
+
 @media (max-width: 575.98px) {
   .navbar-expand-sm > .container,
   .navbar-expand-sm > .container-fluid,

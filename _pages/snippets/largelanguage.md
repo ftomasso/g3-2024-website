@@ -3,11 +3,13 @@
 
 
 
+
 {% capture rag_tech %}
 {% include_relative snippets/tech/rag_tech.md %}
 {% endcapture %}
 
 {% include tech-content.html content=rag_tech %}
+
 
 La grande quantità di siti web divulgativi e l’apparizione, sui social, di quelli che potremmo definire veri e propri “avvocati influencer” sono una spia, dunque, del fatto che gli italiani si affidano effettivamente alla rete per risolvere dubbi di natura legale. L’enorme quantità di dati, tuttavia, può costituire, come abbiamo già avuto modo di accennare, un problema non da poco. E allora perché non dotare i comuni cittadini di uno strumento che possa aiutarli a reperire più velocemente l’informazione di cui hanno bisogno?  
 {:.giustificato}

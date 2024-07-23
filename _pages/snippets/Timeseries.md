@@ -1,11 +1,11 @@
 
 
+
 {% capture time_tech %}
 {% include_relative snippets/tech/timeseries_tech.md %}
 {% endcapture %}
 
 {% include tech-content.html content=time_tech %}
-
 
 
 

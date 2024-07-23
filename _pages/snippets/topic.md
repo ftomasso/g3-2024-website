@@ -1,6 +1,7 @@
 
 # I DUBBI LEGALI DEGLI ITALIANI: UN’ANALISI PER TOPIC
 
+
 {% capture topic_tech %}
 {% include_relative snippets/tech/cluster_tech.md %}
 {% endcapture %}

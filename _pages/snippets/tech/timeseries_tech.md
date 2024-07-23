@@ -1,0 +1,1 @@
+Grazie al fatto che ogni articolo era accompagnato dalla data di pubblicazione, siamo stati in grado di ottenete una serie temporale sia del numero di articoli totali pubblicati sul sito sia del numero di articoli per ognuno dei 7 cluster estrapolati con il k-means. 

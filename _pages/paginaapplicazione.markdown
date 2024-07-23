@@ -1,11 +1,11 @@
 ---
 layout: default-full
-title: "Avvochat"
-subtitle: "Prova la Demo"
+title: "AvvoChat"
+subtitle: "L'AI giuridica che risponde ai dubbi legali degli italiani"
 show_sidetoc: true
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/Prova1.jpeg
-header_title: "Avvochat"
+header_title: "AvvoChat"
 vega: true
 ---
 
