@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
-	<link href="https://ftomasso.github.io//paginaapplicazione/atom.xml" rel="self" type="application/atom+xml" />
-	<link href="https://ftomasso.github.io//paginaapplicazione" rel="alternate" type="text/html" />
-	<updated>2024-07-24T00:19:54+02:00</updated>
-	<id>https://ftomasso.github.io//paginaapplicazione/atom.xml</id>
+	<link href="https://ftomasso.github.io//g3-2024-website/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="https://ftomasso.github.io//g3-2024-website" rel="alternate" type="text/html" />
+	<updated>2024-07-24T00:24:41+02:00</updated>
+	<id>https://ftomasso.github.io//g3-2024-website/atom.xml</id>
 	<title>AvvoChat | L'AI giuridica che risponde ai dubbi legali degli italiani</title>
 	<subtitle>L'AI giuridica che risponde ai dubbi legali degli italiani</subtitle>
 	<author>
@@ -12,5 +12,5 @@
 					
 	</author>
 	<rights>(c) 2024, </rights>
-	<icon>https://ftomasso.github.io//paginaapplicazione/assets/images/Logo_masthead.png</icon>
+	<icon>https://ftomasso.github.io//g3-2024-website/assets/images/Logo_masthead.png</icon>
 	<logo></logo></feed>
