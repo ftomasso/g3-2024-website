@@ -25,7 +25,7 @@
 
 Quando si tratta di legge però, il linguaggio tecnico ci impedisce di risolvere i nostri dubbi, invece gli articoli che abbiamo campionato si distinguono per trattare gli argomenti con semplicità e precisione. Questo ci ha permesso di approfondire l’analisi e vedere di cosa trattano i documenti quando sono stati etichettati come diritto e quotidianità. Vediamo infatti che le tematiche sono varie: bollette, ordinamenti, dogana, risarcimenti, garanzia, sosta… 
 Il grafo interattivo permette di visualizzare agevolmente la frequenza dei termini nei testi.
-
+{:.giustificato}
 
 ### Famiglia, figli e divorzio
 {:.testo-bianco}
@@ -40,6 +40,7 @@ Il grafo interattivo permette di visualizzare agevolmente la frequenza dei termi
 ></iframe>
 
 Nella compagine dedicata alla famiglia ricadono tutti quei termini che nell’immaginario pur di persone comuni, leghiamo a problematiche di eredità, divorzi, separazioni,. Le parole maggiormente presenti nel grafo infatti sono fratelli, cugini, defunti, patrimonio, quote, donazioni; poi immaginiamo tra coniugi: spese, condizioni, doveri, obblighi, collocamento, tutore, tribunale. 
+{:.giustificato}
 
 ### Rapporti di Lavoro
 {:.testo-bianco}
@@ -55,7 +56,7 @@ Nella compagine dedicata alla famiglia ricadono tutti quei termini che nell’im
 ></iframe>
 
 Continuando il viaggio semantico nel mondo del lavoro troviamo una vasta gamma di terminologia legata alle cause con aziende: salute, mansioni, norme aziendali, certificato, controllo, retribuzione, contributi.
-
+{:.giustificato}
 
 
 ### Reati Penali
@@ -72,6 +73,7 @@ Continuando il viaggio semantico nel mondo del lavoro troviamo una vasta gamma d
 ></iframe>
 
 Tra i reati penali i più richiesti sono quelli che riguardano le infrazioni al codice della strada, infatti troviamo parole come multa, verbale, parcheggio, sosta, documenti, circolazione. 
+{:.giustificato}
 
 ### Agenzia delle entrate e fisco
 {:.testo-bianco}
@@ -87,3 +89,4 @@ Tra i reati penali i più richiesti sono quelli che riguardano le infrazioni al 
 ></iframe>
 
 Altro argomento, purtroppo in voga, nei documenti che trattano di debiti e pignoramenti, spiccano termini come euro, requisiti, obbligazioni, uffici, raccomandata, obbligo, patrimonio, termini, data, rateazione.
+{:.giustificato}
