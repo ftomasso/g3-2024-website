@@ -1,6 +1,9 @@
 
-## Grafo
+## Da Inserire
 
+Da inserire.
+{:.giustificato}
+{:.fascia-grigia}
 
 
 <iframe
@@ -14,14 +17,3 @@
 ></iframe>
 
 
-
-
-{:.giustificato}
-{:.fascia-grigia}
-
-
-{% capture gra_tech %}
-{% include_relative snippets/tech/grapho_tech.md %}
-{% endcapture %}
-
-{% include tech-content.html content=gra_tech %}

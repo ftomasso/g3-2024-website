@@ -2,5 +2,5 @@
   url:  "assets/charts/trend2.json"
   description: "L'evoluzione del fenomeno nel tempo"
 - name: Topic
-  url:  "assets/charts/trend_tempo_colorati.json"
+  url:  "assets/charts/trend_tempo_colorati_corretto.json"
   description: "I topic nel tempo"

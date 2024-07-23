@@ -19,6 +19,3 @@ Tutto sommato, l’AvvoChat, non se l’è cavata male. Ha ricevuto, infatti, pa
 
 ![Test immagine]({{site.baseurl}}/assets/images/avvoavvo2.png)
 
-## CONCLUSIONI
-L’uso combinato di rag e fine-tuning risolve una serie di cose legate sia ai problemi degli llm (TIPO CHE Il RAG garantisce la trasparenza) che al fatto che l’ambito legale è particolare ma, essendo la legge un tema molto delicato, restano aperte alcune questioni e la ci sono ancora molte domande relative a cosa si può fare e cosa no relativamente al rapporto tra legge e AI (inserire qualche parola dell’avvocato Traversi)
-{:.giustificato}
