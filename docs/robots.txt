@@ -1,1 +1,1 @@
-Sitemap: https://github.com/ftomasso/g3-2024-website/sitemap.xml
+Sitemap: https://ftomasso.github.io//paginaapplicazione/sitemap.xml
