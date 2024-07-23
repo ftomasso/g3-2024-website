@@ -1,10 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
-#topic, #Time-series,  #sezione-12 {
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap");
+#topic, #Time-series, #sezione-12, #mappa-delle-stragi, #galleria {
   scroll-margin-top: 60px; /* Imposta lo spazio di scorrimento prima dell'elemento ancorato */
 }
 
 .tech {
   background-color: rgba(216, 248, 217, 0.7);
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .tech-show {
@@ -49,6 +52,35 @@
   margin-top: 0.5rem;
 }
 
+.card-container .card {
+  flex: 1 1 100%; /* Default: cards take full width on small screens */
+  max-width: 100%;
+}
+
+@media (min-width: 576px) {
+  .card-container .card {
+    flex: 1 1 calc(50% - 1rem); /* 2 cards per row on small screens */
+    max-width: calc(50% - 1rem);
+  }
+}
+@media (min-width: 768px) {
+  .card-container .card {
+    flex: 1 1 calc(33.33% - 1rem); /* 3 cards per row on medium screens */
+    max-width: calc(33.33% - 1rem);
+  }
+}
+@media (min-width: 992px) {
+  .card-container .card {
+    flex: 1 1 calc(25% - 1rem); /* 4 cards per row on large screens */
+    max-width: calc(25% - 1rem);
+  }
+}
+@media (min-width: 1200px) {
+  .card-container .card {
+    flex: 1 1 calc(20% - 1rem); /* 5 cards per row on extra-large screens */
+    max-width: calc(20% - 1rem);
+  }
+}
 .badge-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -58,23 +90,14 @@
   margin-top: 1rem;
 }
 
-.badge {
-  background-color: rgba(237, 77, 19, 0.3);
-  font-size: 3rem;
-  padding: 2rem;
-}
-.badge .badge-description {
-  font-size: 1rem;
-}
-
 .comic-neue-regular {
-  font-family: "Comic Neue", cursive;
+  font-family: "Fira Code", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
 .comic-neue-bold {
-  font-family: "Comic Neue", cursive;
+  font-family: "Fira Code", cursive;
   font-weight: 700;
   font-style: normal;
 }
@@ -88,76 +111,25 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+iframe {
+  border: 0;
+}
+
+.tech-wrench .fa-wrench:hover {
+  transform: scale(1, 1) !important;
+}
+
+.giustificato {
+  text-align: justify;
+}
+
 .fascia-grigia {
   background-color: #D3D3D3; /* Questo è un colore grigio chiaro */
-  padding: 50px; /* Questo aggiunge un po' di spazio intorno al contenuto */
-}
-.slider {
-  position: relative;
-  width: 100%;
-  height: 300px;
+  padding: 20px; /* Questo aggiunge un po' di spazio intorno al contenuto */
 }
 
-.slide {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  animation: slide 10s infinite;
+.testo-bianco {
+  color: #FFFFFF; /* Questo è il colore bianco */
 }
-
-@keyframes slide {
-  0% { opacity: 0; }
-  20% { opacity: 1; }
-  50% { opacity: 1; }
-  70% { opacity: 0; }
-  100% { opacity: 0; }
-}
-
-.slide:nth-child(2) {
-  animation-delay: 5s;
-}
-
-.full-height {
-  height: 100%;
-}
-
-.chart-wrapper {
-    width: 80%;
-    max-width: 800px; /* Optional: limit the maximum width */
-    height: 300px;    /* Set the desired height */
-}
-
-.chart-wrapper vegachart {
-    width: 100%;
-    height: 100%;
-}
-
-.d-flex {
-  display: flex;
-}
-
-.justify-content-center {
-  justify-content: center;
-}
-
-.mt-2 {
-  margin-top: 2rem; /* O un valore appropriato per il tuo layout */
-}
-
-.chart-wrapper {
-  flex: 1;
-  display: flex;
-}
-
-vegachart {
-  width: 100%;
-  height: 100%;
-  flex: 1;
-}
-
-.text-white {
-  color: white;
-}
-
 
 /*# sourceMappingURL=custom.css.map */

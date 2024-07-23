@@ -11,7 +11,7 @@
 
 
 
-### Diritto e Quotidianetià
+### Diritto e Quotidianità
 {:.testo-bianco}
 
 <iframe
@@ -23,8 +23,7 @@
   allowFullScreen
 ></iframe>
 
-Quando si tratta di legge però, il linguaggio tecnico ci impedisce di risolvere i nostri dubbi, invece gli articoli che abbiamo campionato si distinguono per trattare gli argomenti con semplicità e precisione. Questo ci ha permesso di approfondire l’analisi e vedere di cosa trattano i documenti quando sono stati etichettati come diritto e quotidianità. Vediamo infatti che le tematiche sono varie: bollette, ordinamenti, dogana, risarcimenti, garanzia, sosta… 
-Il grafo interattivo permette di visualizzare agevolmente la frequenza dei termini nei testi.
+**Carte di credito, carte d’identità, carte, carte, carte…** e un’infinità di **documenti!** A rendere complicata la vita degli italiani ci pensa la burocrazia. Qualsiasi tipo di attività ti venga in mente di fare, è tutto un abbondare di documenti da **compilare, presentare** e via discorrendo. Roba da finire in **ospedale**? Beh, anche lì, serve la **documentazione medica**, le **dimissioni** seguono determinati protocolli giuridici, per tornare al lavoro bisogna presentare il **certificato…** ed è così che riparte la giostra! 
 {:.giustificato}
 
 ### Famiglia, figli e divorzio
@@ -39,8 +38,7 @@ Il grafo interattivo permette di visualizzare agevolmente la frequenza dei termi
   allowFullScreen
 ></iframe>
 
-Nella compagine dedicata alla famiglia ricadono tutti quei termini che nell’immaginario pur di persone comuni, leghiamo a problematiche di eredità, divorzi, separazioni,. Le parole maggiormente presenti nel grafo infatti sono fratelli, cugini, defunti, patrimonio, quote, donazioni; poi immaginiamo tra coniugi: spese, condizioni, doveri, obblighi, collocamento, tutore, tribunale. 
-{:.giustificato}
+Nella grande **famiglia** italiana, non mancano mai le situazioni intricate. Tra i termini che spuntano fuori nelle discussioni legali ci sono **fratelli, cugini** e **defunti**, che rievocano questioni di **eredità e patrimoni** da spartire. Si parla di **quote** e **donazioni**, e subito viene in mente il tipico dibattito familiare su chi prende cosa. Ma non finisce qui. Tra **coniugi**, le parole chiave diventano spese, doveri e **obblighi**. Questi termini ci portano nel cuore delle **separazioni** e dei **divorzi**, dove ogni dettaglio, dal collocamento dei **figli** al ruolo del **tutore**, passa al vaglio del tribunale. Insomma, le vicende familiari sono un vero e proprio romanzo, con capitoli pieni di **emozioni** e **colpi di scena**, e un bel po' di carta bollata!
 
 ### Rapporti di Lavoro
 {:.testo-bianco}
@@ -55,7 +53,7 @@ Nella compagine dedicata alla famiglia ricadono tutti quei termini che nell’im
 
 ></iframe>
 
-Continuando il viaggio semantico nel mondo del lavoro troviamo una vasta gamma di terminologia legata alle cause con aziende: salute, mansioni, norme aziendali, certificato, controllo, retribuzione, contributi.
+La vita lavorativa degli italiani si concentra attorno alla realtà aziendale; mentre le aziende impartiscono le **mansioni** da svolgere sulla base di **esigenze produttive**, l’unica vera esigenza che preoccupa gli italiani è lo **stipendio**. La retribuzione mensile, si lega a questioni delicate come il numero di **permessi retribuiti spettanti** per l’**assistenza domiciliare** dei propri cari affetti da **disabilità**. 
 {:.giustificato}
 
 
@@ -72,7 +70,7 @@ Continuando il viaggio semantico nel mondo del lavoro troviamo una vasta gamma d
 
 ></iframe>
 
-Tra i reati penali i più richiesti sono quelli che riguardano le infrazioni al codice della strada, infatti troviamo parole come multa, verbale, parcheggio, sosta, documenti, circolazione. 
+Gli italiani alla guida? campioni…di **infrazioni**! Se si tratta di **reati**, la maggior parte di questi fanno riferimento proprio al **codice della strada**; tra **multe** per eccesso di velocità (**autovelox**), **mancate revisioni, pericoli di circolazione** e via dicendo, non siamo proprio un esempio da seguire. La giustizia, per contro, **vigila** imponendo obblighi finalizzati a far **rispettare** le **regole**, prima che una condotta **imprudente** alla guida ponga gli **estremi** per un reato **penale**.
 {:.giustificato}
 
 ### Agenzia delle entrate e fisco
@@ -88,5 +86,5 @@ Tra i reati penali i più richiesti sono quelli che riguardano le infrazioni al 
 
 ></iframe>
 
-Altro argomento, purtroppo in voga, nei documenti che trattano di debiti e pignoramenti, spiccano termini come euro, requisiti, obbligazioni, uffici, raccomandata, obbligo, patrimonio, termini, data, rateazione.
+Che rapporto hanno gli italiani col fisco? Discreto…siamo, infatti, abbastanza soliti rivolgerci all’Agenzia delle Entrate per questioni che vanno dalle **spese** di varia natura alla tutela del **patrimonio**, alla **presentazione** di **domanda** per l’accesso agli **atti**… Insomma, il codice di **procedura fiscale** è troppo complicato da navigare in autonomia, e quando si tratta di **tasse** o **imposte** corriamo dritti dall’avvocato! Anche qui, purtroppo, non mancano i furbi e tra **debiti non pagati** e **violazioni**, spesso scatta il **reato**, con tanto di **sanzioni amministrative** o, addirittura, **penali**.
 {:.giustificato}

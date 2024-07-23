@@ -1,0 +1,3173 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "datasets": {
+    "data-46c8023e4199c1e7dacc4896f62c7dbb": [
+      {
+        "RAG": false,
+        "accuracy": 0.5957446808510638,
+        "accuracy_argomento": 0.537542662116041,
+        "accuracy_modello": 0.537542662116041,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5246478873239436,
+        "accuracy_argomento": 0.537542662116041,
+        "accuracy_modello": 0.537542662116041,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.47368421052631576,
+        "accuracy_argomento": 0.537542662116041,
+        "accuracy_modello": 0.537542662116041,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5445544554455446,
+        "accuracy_argomento": 0.5163934426229508,
+        "accuracy_modello": 0.5163934426229508,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.48514851485148514,
+        "accuracy_argomento": 0.5163934426229508,
+        "accuracy_modello": 0.5163934426229508,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5523809523809524,
+        "accuracy_argomento": 0.5163934426229508,
+        "accuracy_modello": 0.5163934426229508,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.6598984771573604,
+        "accuracy_argomento": 0.5736925515055468,
+        "accuracy_modello": 0.5736925515055468,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.535483870967742,
+        "accuracy_argomento": 0.5736925515055468,
+        "accuracy_modello": 0.5736925515055468,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.532258064516129,
+        "accuracy_argomento": 0.5736925515055468,
+        "accuracy_modello": 0.5736925515055468,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.6223404255319149,
+        "accuracy_argomento": 0.5546075085324232,
+        "accuracy_modello": 0.5546075085324232,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5563380281690141,
+        "accuracy_argomento": 0.5546075085324232,
+        "accuracy_modello": 0.5546075085324232,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.43859649122807015,
+        "accuracy_argomento": 0.5546075085324232,
+        "accuracy_modello": 0.5546075085324232,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.6435643564356436,
+        "accuracy_argomento": 0.5360655737704918,
+        "accuracy_modello": 0.5360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5148514851485149,
+        "accuracy_argomento": 0.5360655737704918,
+        "accuracy_modello": 0.5360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.3904761904761905,
+        "accuracy_argomento": 0.5360655737704918,
+        "accuracy_modello": 0.5360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.6802030456852792,
+        "accuracy_argomento": 0.5705229793977813,
+        "accuracy_modello": 0.5705229793977813,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5290322580645161,
+        "accuracy_argomento": 0.5705229793977813,
+        "accuracy_modello": 0.5705229793977813,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5,
+        "accuracy_argomento": 0.5705229793977813,
+        "accuracy_modello": 0.5705229793977813,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5957446808510638,
+        "accuracy_argomento": 0.5170648464163823,
+        "accuracy_modello": 0.5170648464163823,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4894366197183099,
+        "accuracy_argomento": 0.5170648464163823,
+        "accuracy_modello": 0.5170648464163823,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.45614035087719296,
+        "accuracy_argomento": 0.5170648464163823,
+        "accuracy_modello": 0.5170648464163823,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5544554455445545,
+        "accuracy_argomento": 0.5278688524590164,
+        "accuracy_modello": 0.5278688524590164,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5115511551155115,
+        "accuracy_argomento": 0.5278688524590164,
+        "accuracy_modello": 0.5278688524590164,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5238095238095238,
+        "accuracy_argomento": 0.5278688524590164,
+        "accuracy_modello": 0.5278688524590164,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.649746192893401,
+        "accuracy_argomento": 0.5499207606973059,
+        "accuracy_modello": 0.5499207606973059,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5225806451612903,
+        "accuracy_argomento": 0.5499207606973059,
+        "accuracy_modello": 0.5499207606973059,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4596774193548387,
+        "accuracy_argomento": 0.5499207606973059,
+        "accuracy_modello": 0.5499207606973059,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5053191489361702,
+        "accuracy_argomento": 0.4522184300341297,
+        "accuracy_modello": 0.4522184300341297,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.43661971830985913,
+        "accuracy_argomento": 0.4522184300341297,
+        "accuracy_modello": 0.4522184300341297,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.40350877192982454,
+        "accuracy_argomento": 0.4522184300341297,
+        "accuracy_modello": 0.4522184300341297,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.47029702970297027,
+        "accuracy_argomento": 0.4360655737704918,
+        "accuracy_modello": 0.4360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.38283828382838286,
+        "accuracy_argomento": 0.4360655737704918,
+        "accuracy_modello": 0.4360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5238095238095238,
+        "accuracy_argomento": 0.4360655737704918,
+        "accuracy_modello": 0.4360655737704918,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5431472081218274,
+        "accuracy_argomento": 0.46275752773375595,
+        "accuracy_modello": 0.46275752773375595,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4290322580645161,
+        "accuracy_argomento": 0.46275752773375595,
+        "accuracy_modello": 0.46275752773375595,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.41935483870967744,
+        "accuracy_argomento": 0.46275752773375595,
+        "accuracy_modello": 0.46275752773375595,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5425531914893617,
+        "accuracy_argomento": 0.5034129692832765,
+        "accuracy_modello": 0.5034129692832765,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5,
+        "accuracy_argomento": 0.5034129692832765,
+        "accuracy_modello": 0.5034129692832765,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4473684210526316,
+        "accuracy_argomento": 0.5034129692832765,
+        "accuracy_modello": 0.5034129692832765,
+        "alpha": null,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5297029702970297,
+        "accuracy_argomento": 0.49508196721311476,
+        "accuracy_modello": 0.49508196721311476,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.48184818481848185,
+        "accuracy_argomento": 0.49508196721311476,
+        "accuracy_modello": 0.49508196721311476,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4666666666666667,
+        "accuracy_argomento": 0.49508196721311476,
+        "accuracy_modello": 0.49508196721311476,
+        "alpha": null,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5888324873096447,
+        "accuracy_argomento": 0.5324881141045958,
+        "accuracy_modello": 0.5324881141045958,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.5161290322580645,
+        "accuracy_argomento": 0.5324881141045958,
+        "accuracy_modello": 0.5324881141045958,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": false,
+        "accuracy": 0.4838709677419355,
+        "accuracy_argomento": 0.5324881141045958,
+        "accuracy_modello": 0.5324881141045958,
+        "alpha": null,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      }
+    ],
+    "data-fab5039e52bb2a7e74cfed53b2314584": [
+      {
+        "RAG": true,
+        "accuracy": 0.7793427230046949,
+        "accuracy_argomento": 0.7686781609195402,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7578347578347578,
+        "accuracy_argomento": 0.7686781609195402,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7803030303030303,
+        "accuracy_argomento": 0.7686781609195402,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6974358974358974,
+        "accuracy_argomento": 0.627677100494234,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5953947368421053,
+        "accuracy_argomento": 0.627677100494234,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5925925925925926,
+        "accuracy_argomento": 0.627677100494234,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6237623762376238,
+        "accuracy_argomento": 0.5534591194968553,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5258064516129032,
+        "accuracy_argomento": 0.5534591194968553,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5080645161290323,
+        "accuracy_argomento": 0.5534591194968553,
+        "accuracy_modello": 0.6539453326456937,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7894736842105263,
+        "accuracy_argomento": 0.7824207492795389,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7740112994350282,
+        "accuracy_argomento": 0.7824207492795389,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7938931297709924,
+        "accuracy_argomento": 0.7824207492795389,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.785,
+        "accuracy_argomento": 0.692063492063492,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6489028213166145,
+        "accuracy_argomento": 0.692063492063492,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6486486486486487,
+        "accuracy_argomento": 0.692063492063492,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.62,
+        "accuracy_argomento": 0.5548489666136724,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5419354838709678,
+        "accuracy_argomento": 0.5548489666136724,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4789915966386555,
+        "accuracy_argomento": 0.5548489666136724,
+        "accuracy_modello": 0.6799795186891961,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8243243243243243,
+        "accuracy_argomento": 0.8066298342541437,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7805555555555556,
+        "accuracy_argomento": 0.8066298342541437,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8450704225352113,
+        "accuracy_argomento": 0.8066298342541437,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7824074074074074,
+        "accuracy_argomento": 0.718562874251497,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7008797653958945,
+        "accuracy_argomento": 0.718562874251497,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6486486486486487,
+        "accuracy_argomento": 0.718562874251497,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.649746192893401,
+        "accuracy_argomento": 0.5595611285266457,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5111821086261981,
+        "accuracy_argomento": 0.5595611285266457,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5390625,
+        "accuracy_argomento": 0.5595611285266457,
+        "accuracy_modello": 0.7,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8280542986425339,
+        "accuracy_argomento": 0.8075313807531381,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7834757834757835,
+        "accuracy_argomento": 0.8075313807531381,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8344827586206897,
+        "accuracy_argomento": 0.8075313807531381,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7746478873239436,
+        "accuracy_argomento": 0.7142857142857143,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7126760563380282,
+        "accuracy_argomento": 0.7142857142857143,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.616,
+        "accuracy_argomento": 0.7142857142857143,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6307692307692307,
+        "accuracy_argomento": 0.5625,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5275080906148867,
+        "accuracy_argomento": 0.5625,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5416666666666666,
+        "accuracy_argomento": 0.5625,
+        "accuracy_modello": 0.700589970501475,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8082191780821918,
+        "accuracy_argomento": 0.7932489451476793,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7793696275071633,
+        "accuracy_argomento": 0.7932489451476793,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8041958041958042,
+        "accuracy_argomento": 0.7932489451476793,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7824074074074074,
+        "accuracy_argomento": 0.7109826589595376,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6997167138810199,
+        "accuracy_argomento": 0.7109826589595376,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6178861788617886,
+        "accuracy_argomento": 0.7109826589595376,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6461538461538462,
+        "accuracy_argomento": 0.5677830940988836,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5239616613418531,
+        "accuracy_argomento": 0.5677830940988836,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5546218487394958,
+        "accuracy_argomento": 0.5677830940988836,
+        "accuracy_modello": 0.6955665024630542,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Embedding(D-A-M)"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7981220657276995,
+        "accuracy_argomento": 0.7471264367816092,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7065527065527065,
+        "accuracy_argomento": 0.7471264367816092,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7727272727272727,
+        "accuracy_argomento": 0.7471264367816092,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6871794871794872,
+        "accuracy_argomento": 0.6177924217462932,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6118421052631579,
+        "accuracy_argomento": 0.6177924217462932,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5092592592592593,
+        "accuracy_argomento": 0.6177924217462932,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6287128712871287,
+        "accuracy_argomento": 0.5550314465408805,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5161290322580645,
+        "accuracy_argomento": 0.5550314465408805,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.532258064516129,
+        "accuracy_argomento": 0.5550314465408805,
+        "accuracy_modello": 0.6436307374935534,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7990430622009569,
+        "accuracy_argomento": 0.776657060518732,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7627118644067796,
+        "accuracy_argomento": 0.776657060518732,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7786259541984732,
+        "accuracy_argomento": 0.776657060518732,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.765,
+        "accuracy_argomento": 0.7031746031746032,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6865203761755486,
+        "accuracy_argomento": 0.7031746031746032,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6396396396396397,
+        "accuracy_argomento": 0.7031746031746032,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.645,
+        "accuracy_argomento": 0.5564387917329093,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5064516129032258,
+        "accuracy_argomento": 0.5564387917329093,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5378151260504201,
+        "accuracy_argomento": 0.5564387917329093,
+        "accuracy_modello": 0.6820276497695853,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8288288288288288,
+        "accuracy_argomento": 0.7997237569060773,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7722222222222223,
+        "accuracy_argomento": 0.7997237569060773,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.823943661971831,
+        "accuracy_argomento": 0.7997237569060773,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7777777777777778,
+        "accuracy_argomento": 0.7410179640718563,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7419354838709677,
+        "accuracy_argomento": 0.7410179640718563,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6666666666666666,
+        "accuracy_argomento": 0.7410179640718563,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6802030456852792,
+        "accuracy_argomento": 0.5768025078369906,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5303514376996805,
+        "accuracy_argomento": 0.5768025078369906,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.53125,
+        "accuracy_argomento": 0.5768025078369906,
+        "accuracy_modello": 0.7103448275862069,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8461538461538461,
+        "accuracy_argomento": 0.7949790794979079,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7692307692307693,
+        "accuracy_argomento": 0.7949790794979079,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7793103448275862,
+        "accuracy_argomento": 0.7949790794979079,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8075117370892019,
+        "accuracy_argomento": 0.759018759018759,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7661971830985915,
+        "accuracy_argomento": 0.759018759018759,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.656,
+        "accuracy_argomento": 0.759018759018759,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6564102564102564,
+        "accuracy_argomento": 0.5817307692307693,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5469255663430421,
+        "accuracy_argomento": 0.5817307692307693,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.55,
+        "accuracy_argomento": 0.5817307692307693,
+        "accuracy_modello": 0.7173058013765978,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8401826484018264,
+        "accuracy_argomento": 0.7834036568213784,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7507163323782235,
+        "accuracy_argomento": 0.7834036568213784,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7762237762237763,
+        "accuracy_argomento": 0.7834036568213784,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8148148148148148,
+        "accuracy_argomento": 0.7456647398843931,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7337110481586402,
+        "accuracy_argomento": 0.7456647398843931,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6585365853658537,
+        "accuracy_argomento": 0.7456647398843931,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6615384615384615,
+        "accuracy_argomento": 0.5996810207336523,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5750798722044729,
+        "accuracy_argomento": 0.5996810207336523,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5630252100840336,
+        "accuracy_argomento": 0.5996810207336523,
+        "accuracy_modello": 0.7137931034482758,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "ChatGPT-175b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.812206572769953,
+        "accuracy_argomento": 0.7772988505747126,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7692307692307693,
+        "accuracy_argomento": 0.7772988505747126,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7424242424242424,
+        "accuracy_argomento": 0.7772988505747126,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6923076923076923,
+        "accuracy_argomento": 0.6540362438220758,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6480263157894737,
+        "accuracy_argomento": 0.6540362438220758,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6018518518518519,
+        "accuracy_argomento": 0.6540362438220758,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6188118811881188,
+        "accuracy_argomento": 0.5314465408805031,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5161290322580645,
+        "accuracy_argomento": 0.5314465408805031,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4274193548387097,
+        "accuracy_argomento": 0.5314465408805031,
+        "accuracy_modello": 0.6580711707065497,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8133971291866029,
+        "accuracy_argomento": 0.7910662824207493,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7966101694915254,
+        "accuracy_argomento": 0.7910662824207493,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7404580152671756,
+        "accuracy_argomento": 0.7910662824207493,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8,
+        "accuracy_argomento": 0.7174603174603175,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6833855799373041,
+        "accuracy_argomento": 0.7174603174603175,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6666666666666666,
+        "accuracy_argomento": 0.7174603174603175,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.605,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5064516129032258,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.42857142857142855,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6810035842293907,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8288288288288288,
+        "accuracy_argomento": 0.8121546961325967,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8111111111111111,
+        "accuracy_argomento": 0.8121546961325967,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7887323943661971,
+        "accuracy_argomento": 0.8121546961325967,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8194444444444444,
+        "accuracy_argomento": 0.75,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7360703812316716,
+        "accuracy_argomento": 0.75,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6576576576576577,
+        "accuracy_argomento": 0.75,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6294416243654822,
+        "accuracy_argomento": 0.5266457680250783,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4536741214057508,
+        "accuracy_argomento": 0.5266457680250783,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.546875,
+        "accuracy_argomento": 0.5266457680250783,
+        "accuracy_modello": 0.7019704433497537,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8371040723981901,
+        "accuracy_argomento": 0.8117154811715481,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8034188034188035,
+        "accuracy_argomento": 0.8117154811715481,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7931034482758621,
+        "accuracy_argomento": 0.8117154811715481,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.812206572769953,
+        "accuracy_argomento": 0.7402597402597403,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7267605633802817,
+        "accuracy_argomento": 0.7402597402597403,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.656,
+        "accuracy_argomento": 0.7402597402597403,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6307692307692307,
+        "accuracy_argomento": 0.5400641025641025,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5016181229773463,
+        "accuracy_argomento": 0.5400641025641025,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.49166666666666664,
+        "accuracy_argomento": 0.5400641025641025,
+        "accuracy_modello": 0.704031465093412,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.821917808219178,
+        "accuracy_argomento": 0.8002812939521801,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8022922636103151,
+        "accuracy_argomento": 0.8002812939521801,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7622377622377622,
+        "accuracy_argomento": 0.8002812939521801,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8148148148148148,
+        "accuracy_argomento": 0.7413294797687862,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7223796033994334,
+        "accuracy_argomento": 0.7413294797687862,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6666666666666666,
+        "accuracy_argomento": 0.7413294797687862,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6410256410256411,
+        "accuracy_argomento": 0.532695374800638,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.48562300319488816,
+        "accuracy_argomento": 0.532695374800638,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4789915966386555,
+        "accuracy_argomento": 0.532695374800638,
+        "accuracy_modello": 0.6975369458128079,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Anita-8b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7417840375586855,
+        "accuracy_argomento": 0.6666666666666666,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6267806267806267,
+        "accuracy_argomento": 0.6666666666666666,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6515151515151515,
+        "accuracy_argomento": 0.6666666666666666,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6051282051282051,
+        "accuracy_argomento": 0.5205930807248764,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.47368421052631576,
+        "accuracy_argomento": 0.5205930807248764,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5,
+        "accuracy_argomento": 0.5205930807248764,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5594059405940595,
+        "accuracy_argomento": 0.4921383647798742,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.45161290322580644,
+        "accuracy_argomento": 0.4921383647798742,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4838709677419355,
+        "accuracy_argomento": 0.4921383647798742,
+        "accuracy_modello": 0.5636926250644663,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7368421052631579,
+        "accuracy_argomento": 0.6729106628242075,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6468926553672316,
+        "accuracy_argomento": 0.6729106628242075,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6412213740458015,
+        "accuracy_argomento": 0.6729106628242075,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.65,
+        "accuracy_argomento": 0.5587301587301587,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5078369905956113,
+        "accuracy_argomento": 0.5587301587301587,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5405405405405406,
+        "accuracy_argomento": 0.5587301587301587,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.53,
+        "accuracy_argomento": 0.48171701112877585,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.45161290322580644,
+        "accuracy_argomento": 0.48171701112877585,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4789915966386555,
+        "accuracy_argomento": 0.48171701112877585,
+        "accuracy_modello": 0.5745007680491552,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7387387387387387,
+        "accuracy_argomento": 0.68646408839779,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6611111111111111,
+        "accuracy_argomento": 0.68646408839779,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6690140845070423,
+        "accuracy_argomento": 0.68646408839779,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6435185185185185,
+        "accuracy_argomento": 0.592814371257485,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5630498533724341,
+        "accuracy_argomento": 0.592814371257485,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5855855855855856,
+        "accuracy_argomento": 0.592814371257485,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5431472081218274,
+        "accuracy_argomento": 0.46551724137931033,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4249201277955272,
+        "accuracy_argomento": 0.46551724137931033,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4453125,
+        "accuracy_argomento": 0.46551724137931033,
+        "accuracy_modello": 0.5862068965517241,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7239819004524887,
+        "accuracy_argomento": 0.6889818688981869,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6723646723646723,
+        "accuracy_argomento": 0.6889818688981869,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6758620689655173,
+        "accuracy_argomento": 0.6889818688981869,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6525821596244131,
+        "accuracy_argomento": 0.6031746031746031,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5859154929577465,
+        "accuracy_argomento": 0.6031746031746031,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.568,
+        "accuracy_argomento": 0.6031746031746031,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5333333333333333,
+        "accuracy_argomento": 0.47275641025641024,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4368932038834951,
+        "accuracy_argomento": 0.47275641025641024,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4666666666666667,
+        "accuracy_argomento": 0.47275641025641024,
+        "accuracy_modello": 0.5934119960668633,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7123287671232876,
+        "accuracy_argomento": 0.6821378340365682,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.670487106017192,
+        "accuracy_argomento": 0.6821378340365682,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6643356643356644,
+        "accuracy_argomento": 0.6821378340365682,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6574074074074074,
+        "accuracy_argomento": 0.6011560693641619,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5892351274787535,
+        "accuracy_argomento": 0.6011560693641619,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5365853658536586,
+        "accuracy_argomento": 0.6011560693641619,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5384615384615384,
+        "accuracy_argomento": 0.47368421052631576,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.4281150159744409,
+        "accuracy_argomento": 0.47368421052631576,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.48739495798319327,
+        "accuracy_argomento": 0.47368421052631576,
+        "accuracy_modello": 0.5901477832512315,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Dante-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7464788732394366,
+        "accuracy_argomento": 0.7298850574712644,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7236467236467237,
+        "accuracy_argomento": 0.7298850574712644,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7196969696969697,
+        "accuracy_argomento": 0.7298850574712644,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6051282051282051,
+        "accuracy_argomento": 0.5782537067545305,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5822368421052632,
+        "accuracy_argomento": 0.5782537067545305,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5185185185185185,
+        "accuracy_argomento": 0.5782537067545305,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5742574257425742,
+        "accuracy_argomento": 0.5188679245283019,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5096774193548387,
+        "accuracy_argomento": 0.5188679245283019,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.45161290322580644,
+        "accuracy_argomento": 0.5188679245283019,
+        "accuracy_modello": 0.6132026817947396,
+        "alpha": 0.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7751196172248804,
+        "accuracy_argomento": 0.7564841498559077,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7457627118644068,
+        "accuracy_argomento": 0.7564841498559077,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7557251908396947,
+        "accuracy_argomento": 0.7564841498559077,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.725,
+        "accuracy_argomento": 0.6492063492063492,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6300940438871473,
+        "accuracy_argomento": 0.6492063492063492,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5675675675675675,
+        "accuracy_argomento": 0.6492063492063492,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.575,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5290322580645161,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.42016806722689076,
+        "accuracy_argomento": 0.5230524642289348,
+        "accuracy_modello": 0.6466973886328725,
+        "alpha": 0.25,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8063063063063063,
+        "accuracy_argomento": 0.7831491712707183,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7638888888888888,
+        "accuracy_argomento": 0.7831491712707183,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.795774647887324,
+        "accuracy_argomento": 0.7831491712707183,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7407407407407407,
+        "accuracy_argomento": 0.6856287425149701,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6774193548387096,
+        "accuracy_argomento": 0.6856287425149701,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6036036036036037,
+        "accuracy_argomento": 0.6856287425149701,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5736040609137056,
+        "accuracy_argomento": 0.5250783699059561,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5111821086261981,
+        "accuracy_argomento": 0.5250783699059561,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.484375,
+        "accuracy_argomento": 0.5250783699059561,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 0.5,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.8371040723981901,
+        "accuracy_argomento": 0.7866108786610879,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7521367521367521,
+        "accuracy_argomento": 0.7866108786610879,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7931034482758621,
+        "accuracy_argomento": 0.7866108786610879,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7323943661971831,
+        "accuracy_argomento": 0.6854256854256854,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6957746478873239,
+        "accuracy_argomento": 0.6854256854256854,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.576,
+        "accuracy_argomento": 0.6854256854256854,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5743589743589743,
+        "accuracy_argomento": 0.5224358974358975,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.49514563106796117,
+        "accuracy_argomento": 0.5224358974358975,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5083333333333333,
+        "accuracy_argomento": 0.5224358974358975,
+        "accuracy_modello": 0.6710914454277286,
+        "alpha": 0.75,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.821917808219178,
+        "accuracy_argomento": 0.7777777777777778,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7535816618911175,
+        "accuracy_argomento": 0.7777777777777778,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7692307692307693,
+        "accuracy_argomento": 0.7777777777777778,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Civile",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.7268518518518519,
+        "accuracy_argomento": 0.680635838150289,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.6883852691218131,
+        "accuracy_argomento": 0.680635838150289,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5772357723577236,
+        "accuracy_argomento": 0.680635838150289,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Costituzionale",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5948717948717949,
+        "accuracy_argomento": 0.5358851674641149,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "FACILE",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5047923322683706,
+        "accuracy_argomento": 0.5358851674641149,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "MEDIA",
+        "modello": "Mistral-7b"
+      },
+      {
+        "RAG": true,
+        "accuracy": 0.5210084033613446,
+        "accuracy_argomento": 0.5358851674641149,
+        "accuracy_modello": 0.6699507389162561,
+        "alpha": 1.0,
+        "argomento": "Diritto Amministrativo",
+        "difficoltà": "ALTA",
+        "modello": "Mistral-7b"
+      }
+    ]
+  },
+  "params": [
+    {
+      "name": "param_51",
+      "select": {
+        "type": "interval"
+      },
+      "views": [
+        "view_29"
+      ]
+    },
+    {
+      "name": "param_50",
+      "select": {
+        "encodings": [
+          "color"
+        ],
+        "type": "point"
+      },
+      "views": [
+        "view_30"
+      ]
+    },
+    {
+      "bind": {
+        "input": "range",
+        "max": 1.0,
+        "min": 0.0,
+        "name": "Alpha: ",
+        "step": 0.25
+      },
+      "name": "Alpha",
+      "select": {
+        "fields": [
+          "alpha"
+        ],
+        "type": "point"
+      },
+      "value": [
+        {
+          "Alpha": 0.0
+        }
+      ],
+      "views": [
+        "view_30"
+      ]
+    }
+  ],
+  "vconcat": [
+    {
+      "height": 400,
+      "layer": [
+        {
+          "data": {
+            "name": "data-fab5039e52bb2a7e74cfed53b2314584"
+          },
+          "encoding": {
+            "color": {
+              "condition": {
+                "empty": true,
+                "field": "modello",
+                "param": "param_50",
+                "type": "nominal"
+              },
+              "value": null
+            },
+            "strokeWidth": {
+              "condition": {
+                "empty": true,
+                "param": "param_50",
+                "value": 3
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "argomento",
+                "type": "nominal"
+              },
+              {
+                "field": "accuracy",
+                "type": "quantitative"
+              },
+              {
+                "field": "modello",
+                "type": "nominal"
+              },
+              {
+                "field": "alpha",
+                "type": "quantitative"
+              },
+              {
+                "field": "RAG",
+                "type": "nominal"
+              }
+            ],
+            "x": {
+              "field": "argomento",
+              "title": "Categoria",
+              "type": "nominal"
+            },
+            "xOffset": {
+              "field": "difficoltà",
+              "sort": [
+                "FACILE",
+                "MEDIA",
+                "ALTA"
+              ],
+              "type": "nominal"
+            },
+            "y": {
+              "axis": {
+                "labelFontSize": 15,
+                "labels": true
+              },
+              "field": "accuracy",
+              "scale": {
+                "domain": [
+                  0,
+                  1
+                ]
+              },
+              "stack": false,
+              "title": "accuracy",
+              "type": "quantitative"
+            }
+          },
+          "mark": {
+            "clip": true,
+            "color": "lightgrey",
+            "filled": true,
+            "opacity": 0.7,
+            "stroke": "black",
+            "strokeWidth": 2,
+            "type": "bar"
+          },
+          "name": "view_29",
+          "transform": [
+            {
+              "filter": {
+                "param": "Alpha"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "data-46c8023e4199c1e7dacc4896f62c7dbb"
+          },
+          "encoding": {
+            "color": {
+              "condition": {
+                "empty": true,
+                "field": "modello",
+                "param": "param_50",
+                "type": "nominal"
+              },
+              "value": null
+            },
+            "strokeWidth": {
+              "condition": {
+                "empty": true,
+                "param": "param_50",
+                "value": 3
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "argomento",
+                "type": "nominal"
+              },
+              {
+                "field": "accuracy",
+                "type": "quantitative"
+              },
+              {
+                "field": "modello",
+                "type": "nominal"
+              },
+              {
+                "field": "alpha",
+                "type": "quantitative"
+              },
+              {
+                "field": "RAG",
+                "type": "nominal"
+              }
+            ],
+            "x": {
+              "axis": {
+                "labelAngle": -45,
+                "labelFontSize": 15,
+                "labels": true
+              },
+              "field": "argomento",
+              "title": "Categoria",
+              "type": "nominal"
+            },
+            "xOffset": {
+              "field": "difficoltà",
+              "sort": [
+                "FACILE",
+                "MEDIA",
+                "ALTA"
+              ],
+              "type": "nominal"
+            },
+            "y": {
+              "axis": {
+                "labelFontSize": 20,
+                "titleFontSize": 15
+              },
+              "field": "accuracy",
+              "scale": {
+                "domain": [
+                  0,
+                  1
+                ]
+              },
+              "stack": false,
+              "title": "accuracy",
+              "type": "quantitative"
+            }
+          },
+          "mark": {
+            "clip": true,
+            "color": "lightgrey",
+            "filled": true,
+            "stroke": "black",
+            "strokeWidth": 3,
+            "type": "bar"
+          }
+        },
+        {
+          "data": {
+            "name": "data-46c8023e4199c1e7dacc4896f62c7dbb"
+          },
+          "encoding": {
+            "text": {
+              "field": "difficoltà",
+              "type": "nominal"
+            },
+            "x": {
+              "axis": {
+                "labelFontSize": 15,
+                "titleFontSize": 15
+              },
+              "field": "argomento",
+              "title": "Categoria",
+              "type": "nominal"
+            },
+            "xOffset": {
+              "field": "difficoltà",
+              "sort": [
+                "FACILE",
+                "MEDIA",
+                "ALTA"
+              ],
+              "type": "nominal"
+            }
+          },
+          "mark": {
+            "angle": 270,
+            "dx": -100,
+            "dy": 0,
+            "fontSize": 15,
+            "type": "text"
+          }
+        }
+      ],
+      "width": 700
+    },
+    {
+      "layer": [
+        {
+          "data": {
+            "name": "data-fab5039e52bb2a7e74cfed53b2314584"
+          },
+          "encoding": {
+            "color": {
+              "condition": {
+                "empty": true,
+                "field": "modello",
+                "param": "param_50",
+                "type": "nominal"
+              },
+              "value": "lightgray"
+            },
+            "tooltip": [
+              {
+                "field": "modello",
+                "type": "nominal"
+              },
+              {
+                "field": "RAG",
+                "type": "nominal"
+              }
+            ],
+            "x": {
+              "axis": {
+                "labelFontSize": 15,
+                "tickCount": 10,
+                "titleFontSize": 15
+              },
+              "field": "tot_population",
+              "scale": {
+                "domain": [
+                  0,
+                  1
+                ]
+              },
+              "title": "Accuracy totale",
+              "type": "quantitative"
+            },
+            "y": {
+              "axis": {
+                "labelFontSize": 15,
+                "titleFontSize": 15
+              },
+              "field": "modello",
+              "sort": [
+                "Dante-7b",
+                "Mistral-7b",
+                "Anita-8b",
+                "ChatGPT-175b",
+                "Embedding(D-A-M)"
+              ],
+              "title": null,
+              "type": "nominal"
+            }
+          },
+          "mark": {
+            "tooltip": true,
+            "type": "bar"
+          },
+          "name": "view_30",
+          "transform": [
+            {
+              "filter": {
+                "param": "Alpha"
+              }
+            },
+            {
+              "aggregate": [
+                {
+                  "as": "tot_population",
+                  "field": "accuracy_argomento",
+                  "op": "mean"
+                }
+              ],
+              "groupby": [
+                "modello"
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "data-46c8023e4199c1e7dacc4896f62c7dbb"
+          },
+          "encoding": {
+            "color": {
+              "condition": {
+                "empty": true,
+                "field": "modello",
+                "legend": {
+                  "labelFont": "Courier",
+                  "labelFontSize": 15,
+                  "offset": -200,
+                  "orient": "right",
+                  "titleFont": "Courier",
+                  "titleFontSize": 25
+                },
+                "param": "param_50",
+                "scale": {
+                  "domain": [
+                    "Dante-7b",
+                    "Mistral-7b",
+                    "Anita-8b",
+                    "ChatGPT-175b",
+                    "Embedding(D-A-M)"
+                  ]
+                },
+                "title": "Modello",
+                "type": "nominal"
+              },
+              "value": null
+            },
+            "tooltip": [
+              {
+                "field": "modello",
+                "type": "nominal"
+              },
+              {
+                "field": "RAG",
+                "type": "nominal"
+              }
+            ],
+            "x": {
+              "axis": {
+                "labelFontSize": 10,
+                "tickCount": 10,
+                "titleFontSize": 10
+              },
+              "field": "tot_population",
+              "scale": {
+                "domain": [
+                  0,
+                  1
+                ]
+              },
+              "title": "Accuracy totale",
+              "type": "quantitative"
+            },
+            "y": {
+              "axis": {
+                "labelFontSize": 15,
+                "titleFontSize": 15
+              },
+              "field": "modello",
+              "sort": [
+                "Dante-7b",
+                "Mistral-7b",
+                "Anita-8b",
+                "ChatGPT-175b",
+                "Embedding(D-A-M)"
+              ],
+              "title": null,
+              "type": "nominal"
+            }
+          },
+          "mark": {
+            "clip": true,
+            "fontSize": 15,
+            "stroke": "black",
+            "strokeWidth": 3,
+            "tooltip": true,
+            "type": "bar"
+          },
+          "transform": [
+            {
+              "aggregate": [
+                {
+                  "as": "tot_population",
+                  "field": "accuracy_argomento",
+                  "op": "mean"
+                }
+              ],
+              "groupby": [
+                "modello"
+              ]
+            }
+          ]
+        }
+      ],
+      "width": 900
+    }
+  ]
+}

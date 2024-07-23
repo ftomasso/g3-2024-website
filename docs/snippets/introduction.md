@@ -1,12 +1,36 @@
-# L’Atlante delle stragi nazifasciste
+{% capture onepage_tech %}
+{% include_relative snippets/tech/onepage-tech.md %}
+{% endcapture %}
 
-L’Atlante delle stragi naziste e fasciste si compone di una banca dati e dei materiali di corredo (documentari, iconografici, video) correlati agli episodi censiti, ospitati all’interno del sito web.
+{% include tech-content.html content=onepage_tech %}
 
-Nella banca dati sono state catalogate e analizzate tutte le stragi e le uccisioni singole di civili e partigiani uccisi al di fuori dello scontro armato, commesse da reparti tedeschi e della Repubblica Sociale Italiana in Italia dopo l’8 settembre 1943, a partire dalle prime uccisioni nel Meridione fino alle stragi della ritirata eseguite in Piemonte, Lombardia, Veneto e Trentino Alto Adige nei giorni successivi alla liberazione.
+# Una questione di codice
 
-L’elaborazione su base cronologica e geografica dell’insieme dei dati censiti ha consentito la definizione di una _cronografia della guerra nazista in Italia_, che mette in correlazione modalità, autori, tempi e luoghi della violenza contro gli inermi sul territorio nazionale.
+Il diritto è una questione che ci coinvolge tutti. Direttamente, da vicino, nella nostra quotidianità anche se non siamo coinvolti in processi civili o penali, crea e regola i nostri spazi di libertà e le regolamenta il nostro regime democratico, la nostra economia, la nostra occupazione. Come il codice definisce il comportamento di un software, così il diritto regolamenta le nostre pratiche il nostro potere, la nostra libertà.
+In Italia, anche se i processi sono in diminuzione, ogni anno tra processi civili e penali circa cinque milioni di italiani sono coinvolti in procedimenti giudiziari.
+Il diritto è un codice complesso, fatto di un corpus di documenti sconfinati, solo per la nostra ricerca abbiamo raccolto tutti i codici della gazzetta ufficiale (30), 42 tra leggi, decreti legislativi e decreti legge, e circa una 20 di codici e regolamenti europei, il totale supera i 15.000 articoli totali che hanno complessi rimandi tra di loro e che tuttavia rappresentano solo una goccia nel mare.
+
+Gli italiani sempre di più si affidano alla rete anche per consulenze e delucidazioni su questo difficile argomento. Ma quanti siti, che consulenze cercano gli italiani, quali difficoltà incontrano, quali sono i temi più ricercati dagli italiani, quali le loro maggiori preoccupazioni?  Come fanno gli italiani a orientarsi in questo mare magnum di complesse regole e procedure amministrative e burocratiche come fanno ad affrontare questo codice? 
+Dato che non siamo riusciti a cercare una risposta, un dato questa domanda ce la siamo posta, non se ne parla forse per pudore o per altre abitudini, si parla di giustizia amministrativa, e abbiamo cercato di analizzare e comprendere questo tramite l’analisi delle domande e delle risposte più frequenti dei blog e dei consulenti legali che si possono trovare online.  Altalex gli dedica un articolo   e comunque sebbene non esista un conteggio preciso del numero totale di questi siti, alcune piattaforme leader come deQuo La legge per tutti hanno evaso oltre 75.000  domande richieste di consulenza in pochi anni
+
+
+
+
+{% capture introduction_tech %}
+{% include_relative snippets/tech/introduction-tech.md %}
+{% endcapture %}
+
+{% include tech-content.html content=introduction_tech %}
+
+<br>
 {% capture dataset_details %}
 {% include_relative snippets/dataset-details.md %}
 {% endcapture %}
 
-{% include modal-component-intro.html title="Dettagli del dataset" content=dataset_details %}
+{% include modal-component.html title="Dettagli del dataset" content=dataset_details id="dataset-details" size="lg" %}
+
+{% capture modal_tech %}
+{% include_relative snippets/tech/modal-tech.md %}
+{% endcapture %}
+
+{% include tech-content.html content=modal_tech %}

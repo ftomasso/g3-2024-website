@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-full
-title: "Home"
-subtitle: "un template per i progetti del master SoBigData"
+title: "AvvoChat"
+subtitle: "L'AI giuridica che risponde ai dubbi legali degli italiani"
 show_sidetoc: true
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/Prova2.jpeg

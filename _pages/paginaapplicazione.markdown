@@ -74,12 +74,14 @@ vega: true
 {% include one-column.html dimension="small" content=achat_content %}
 
 [//]: # (Grafo section)
+<div class="bg-color-full bg-color py-3 my-5 text-white" style="min-height:45vh; background-color: black;">
+
 {% capture grafoX_content %}
     {% include_relative snippets/grafo.md %}
 {% endcapture %}
 
 {% include one-column.html dimension="small" content=grafoX_content %}
-
+</div>
 
 {% include code-explanation.html %}
 
