@@ -2,7 +2,7 @@
 ## ESPLORA I TEMI DI MAGGIORE INTERESSE DEGLI ITALIANI E PROVA ANCHE TU L'AVVOCHAT!
 {:.testo-bianco}
 
-Da inserire.
+
 {:.giustificato}
 
 
