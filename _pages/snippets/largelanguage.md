@@ -9,14 +9,15 @@
 {% endcapture %}
 
 {% include tech-content.html content=rag_tech %}
-
+<p class="spazio"> </p>
+<p class="spazio"> </p>
 
 La grande quantità di siti web divulgativi e l’apparizione, sui social, di quelli che potremmo definire veri e propri “avvocati influencer” sono una spia, dunque, del fatto che gli italiani si affidano effettivamente alla rete per risolvere dubbi di natura legale. L’enorme quantità di dati, tuttavia, può costituire, come abbiamo già avuto modo di accennare, un problema non da poco. E allora perché non dotare i comuni cittadini di uno strumento che possa aiutarli a reperire più velocemente l’informazione di cui hanno bisogno?  
 {:.giustificato}
 
 
 
-![Test immagine]({{site.baseurl}}/assets/images/ragprova.png)
+![Test immagine]({{site.baseurl}}/assets/images/corretta_RAG.jpeg)
 
 
 Il RAG è un sistema che converte documenti in vettori semantici (embedding) e li raccoglie in un database chiamato VECTOR DB. Quando viene posta una domanda legale, il sistema recupera le informazioni pertinenti dal VECTOR DB e le aggiunge alla domanda, permettendo ad Avvochat di generare risposte corrette e chiare in modo efficiente.

@@ -43,7 +43,7 @@ navbar:
   brand: # è il titolo del sito e funziona da bottone (tipicamente per la homepage).
     title :  "Progettone Website Guide"
     img: "./assets/images/Logo_masthead.png"
-    url: /paginaapplicazione
+    url: /
   nav:
     - title: Avvochat
       child:
@@ -51,13 +51,13 @@ navbar:
           url: /paginaapplicazione
         - title: "Topic" #Label
           url: /paginaapplicazione#Topic #url
-        - title: "Time" #Label
+        - title: "Topic-Pills" #Label
           url: /paginaapplicazione#Serie-Temporali #url
         - title: "topicxtopc" #Label
           url: /paginaapplicazione#Topic-Pills #url
-        - title: "Grafo" #Label
+        - title: "Rag" #Label
           url: /paginaapplicazione#Rag #url
-        - title: "LLM_RAG" #Label
+        - title: "AvvoChat" #Label
           url: /paginaapplicazione#AvvoChat #url
 
 googlefonts:
